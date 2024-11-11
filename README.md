@@ -23,7 +23,7 @@ Soy un desarrollador junior apasionado por crear soluciones web innovadoras y op
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DavielSanchez&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavielSanchez&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
   
   </td>
 </tr>
